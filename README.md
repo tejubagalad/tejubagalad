@@ -6,7 +6,7 @@ RV College of Engineering
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
 </a>
 <br>
-<br>
+
 ### 🛠️ My Tech Stack
 
 <p align="left">
