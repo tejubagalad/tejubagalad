@@ -1,4 +1,4 @@
-## Computer Networks student
+## Computer Network Engineering 
 RV College of Engineering 
 
 <!--
